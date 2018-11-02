@@ -1,0 +1,395 @@
+D:\Professional\PayRoll\PayRoll\REXPOS\bin\REXPOS.dll.config
+D:\Professional\PayRoll\PayRoll\REXPOS\bin\REXPOS.dll
+D:\Professional\PayRoll\PayRoll\REXPOS\bin\REXPOS.pdb
+D:\Professional\PayRoll\PayRoll\REXPOS\bin\Antlr3.Runtime.dll
+D:\Professional\PayRoll\PayRoll\REXPOS\bin\Microsoft.AspNet.Identity.Core.dll
+D:\Professional\PayRoll\PayRoll\REXPOS\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\Professional\PayRoll\PayRoll\REXPOS\bin\Microsoft.Owin.dll
+D:\Professional\PayRoll\PayRoll\REXPOS\bin\Microsoft.Owin.Security.Cookies.dll
+D:\Professional\PayRoll\PayRoll\REXPOS\bin\Microsoft.Owin.Security.dll
+D:\Professional\PayRoll\PayRoll\REXPOS\bin\Microsoft.Owin.Security.OAuth.dll
+D:\Professional\PayRoll\PayRoll\REXPOS\bin\Microsoft.Web.Infrastructure.dll
+D:\Professional\PayRoll\PayRoll\REXPOS\bin\Newtonsoft.Json.dll
+D:\Professional\PayRoll\PayRoll\REXPOS\bin\Owin.dll
+D:\Professional\PayRoll\PayRoll\REXPOS\bin\REXPOS.Core.dll
+D:\Professional\PayRoll\PayRoll\REXPOS\bin\System.Web.Helpers.dll
+D:\Professional\PayRoll\PayRoll\REXPOS\bin\System.Web.Mvc.dll
+D:\Professional\PayRoll\PayRoll\REXPOS\bin\System.Web.Optimization.dll
+D:\Professional\PayRoll\PayRoll\REXPOS\bin\System.Web.Razor.dll
+D:\Professional\PayRoll\PayRoll\REXPOS\bin\System.Web.WebPages.Deployment.dll
+D:\Professional\PayRoll\PayRoll\REXPOS\bin\System.Web.WebPages.dll
+D:\Professional\PayRoll\PayRoll\REXPOS\bin\System.Web.WebPages.Razor.dll
+D:\Professional\PayRoll\PayRoll\REXPOS\bin\WebGrease.dll
+D:\Professional\PayRoll\PayRoll\REXPOS\bin\REXPOS.Core.pdb
+D:\Professional\PayRoll\PayRoll\REXPOS\bin\Microsoft.AspNet.Identity.Core.xml
+D:\Professional\PayRoll\PayRoll\REXPOS\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\Professional\PayRoll\PayRoll\REXPOS\bin\Microsoft.Owin.xml
+D:\Professional\PayRoll\PayRoll\REXPOS\bin\Microsoft.Owin.Security.xml
+D:\Professional\PayRoll\PayRoll\REXPOS\bin\Microsoft.Owin.Security.Cookies.xml
+D:\Professional\PayRoll\PayRoll\REXPOS\bin\Microsoft.Owin.Security.OAuth.xml
+D:\Professional\PayRoll\PayRoll\REXPOS\bin\System.Web.Helpers.xml
+D:\Professional\PayRoll\PayRoll\REXPOS\bin\System.Web.Mvc.xml
+D:\Professional\PayRoll\PayRoll\REXPOS\bin\System.Web.Optimization.xml
+D:\Professional\PayRoll\PayRoll\REXPOS\bin\System.Web.Razor.xml
+D:\Professional\PayRoll\PayRoll\REXPOS\bin\System.Web.WebPages.xml
+D:\Professional\PayRoll\PayRoll\REXPOS\bin\System.Web.WebPages.Deployment.xml
+D:\Professional\PayRoll\PayRoll\REXPOS\bin\System.Web.WebPages.Razor.xml
+D:\Professional\PayRoll\PayRoll\REXPOS\bin\Newtonsoft.Json.xml
+D:\Professional\PayRoll\PayRoll\REXPOS\bin\Antlr3.Runtime.pdb
+D:\Professional\PayRoll\PayRoll\REXPOS\obj\Debug\PayRoll.csprojResolveAssemblyReference.cache
+D:\Professional\PayRoll\PayRoll\REXPOS\obj\Debug\REXPOS.dll
+D:\Professional\PayRoll\PayRoll\REXPOS\obj\Debug\REXPOS.pdb
+D:\Professional\PayRoll\PayRoll\PayRoll\obj\Debug\PayRoll.csprojResolveAssemblyReference.cache
+D:\Professional\PayRoll\PayRoll\PayRoll\bin\PayRoll.dll.config
+D:\Professional\PayRoll\PayRoll\PayRoll\bin\PayRoll.dll
+D:\Professional\PayRoll\PayRoll\PayRoll\bin\PayRoll.pdb
+D:\Professional\PayRoll\PayRoll\PayRoll\bin\Antlr3.Runtime.dll
+D:\Professional\PayRoll\PayRoll\PayRoll\bin\Microsoft.AspNet.Identity.Core.dll
+D:\Professional\PayRoll\PayRoll\PayRoll\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\Professional\PayRoll\PayRoll\PayRoll\bin\Microsoft.Owin.dll
+D:\Professional\PayRoll\PayRoll\PayRoll\bin\Microsoft.Owin.Security.Cookies.dll
+D:\Professional\PayRoll\PayRoll\PayRoll\bin\Microsoft.Owin.Security.dll
+D:\Professional\PayRoll\PayRoll\PayRoll\bin\Microsoft.Owin.Security.OAuth.dll
+D:\Professional\PayRoll\PayRoll\PayRoll\bin\Microsoft.Web.Infrastructure.dll
+D:\Professional\PayRoll\PayRoll\PayRoll\bin\Newtonsoft.Json.dll
+D:\Professional\PayRoll\PayRoll\PayRoll\bin\Owin.dll
+D:\Professional\PayRoll\PayRoll\PayRoll\bin\REXPOS.Core.dll
+D:\Professional\PayRoll\PayRoll\PayRoll\bin\System.Web.Helpers.dll
+D:\Professional\PayRoll\PayRoll\PayRoll\bin\System.Web.Mvc.dll
+D:\Professional\PayRoll\PayRoll\PayRoll\bin\System.Web.Optimization.dll
+D:\Professional\PayRoll\PayRoll\PayRoll\bin\System.Web.Razor.dll
+D:\Professional\PayRoll\PayRoll\PayRoll\bin\System.Web.WebPages.Deployment.dll
+D:\Professional\PayRoll\PayRoll\PayRoll\bin\System.Web.WebPages.dll
+D:\Professional\PayRoll\PayRoll\PayRoll\bin\System.Web.WebPages.Razor.dll
+D:\Professional\PayRoll\PayRoll\PayRoll\bin\WebGrease.dll
+D:\Professional\PayRoll\PayRoll\PayRoll\bin\REXPOS.Core.pdb
+D:\Professional\PayRoll\PayRoll\PayRoll\bin\Microsoft.AspNet.Identity.Core.xml
+D:\Professional\PayRoll\PayRoll\PayRoll\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\Professional\PayRoll\PayRoll\PayRoll\bin\Microsoft.Owin.xml
+D:\Professional\PayRoll\PayRoll\PayRoll\bin\Microsoft.Owin.Security.xml
+D:\Professional\PayRoll\PayRoll\PayRoll\bin\Microsoft.Owin.Security.Cookies.xml
+D:\Professional\PayRoll\PayRoll\PayRoll\bin\Microsoft.Owin.Security.OAuth.xml
+D:\Professional\PayRoll\PayRoll\PayRoll\bin\System.Web.Helpers.xml
+D:\Professional\PayRoll\PayRoll\PayRoll\bin\System.Web.Mvc.xml
+D:\Professional\PayRoll\PayRoll\PayRoll\bin\System.Web.Optimization.xml
+D:\Professional\PayRoll\PayRoll\PayRoll\bin\System.Web.Razor.xml
+D:\Professional\PayRoll\PayRoll\PayRoll\bin\System.Web.WebPages.xml
+D:\Professional\PayRoll\PayRoll\PayRoll\bin\System.Web.WebPages.Deployment.xml
+D:\Professional\PayRoll\PayRoll\PayRoll\bin\System.Web.WebPages.Razor.xml
+D:\Professional\PayRoll\PayRoll\PayRoll\bin\Newtonsoft.Json.xml
+D:\Professional\PayRoll\PayRoll\PayRoll\bin\Antlr3.Runtime.pdb
+D:\Professional\PayRoll\PayRoll\PayRoll\obj\Debug\PayRoll.dll
+D:\Professional\PayRoll\PayRoll\PayRoll\obj\Debug\PayRoll.pdb
+D:\Professional\PayRoll\PayRoll\PayRoll\bin\CrystalDecisions.CrystalReports.Design.dll
+D:\Professional\PayRoll\PayRoll\PayRoll\bin\CrystalDecisions.CrystalReports.Engine.dll
+D:\Professional\PayRoll\PayRoll\PayRoll\bin\CrystalDecisions.ReportSource.dll
+D:\Professional\PayRoll\PayRoll\PayRoll\bin\CrystalDecisions.Shared.dll
+D:\Professional\PayRoll\PayRoll\PayRoll\bin\CrystalDecisions.VSDesigner.dll
+D:\Professional\PayRoll\PayRoll\PayRoll\bin\CrystalDecisions.Web.dll
+D:\Professional\PayRoll\PayRoll\PayRoll\bin\CrystalDecisions.ReportAppServer.DataDefModel.dll
+D:\Professional\PayRoll\PayRoll\PayRoll\bin\CrystalDecisions.ReportAppServer.ClientDoc.dll
+D:\Professional\PayRoll\PayRoll\PayRoll\bin\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+D:\Professional\PayRoll\PayRoll\PayRoll\bin\CrystalDecisions.ReportAppServer.Controllers.dll
+D:\Professional\PayRoll\PayRoll\PayRoll\bin\CrystalDecisions.ReportAppServer.CommLayer.dll
+D:\Professional\PayRoll\PayRoll\PayRoll\bin\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+D:\Professional\PayRoll\PayRoll\PayRoll\bin\CrystalDecisions.ReportAppServer.Prompting.dll
+D:\Professional\PayRoll\PayRoll\PayRoll\bin\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+D:\Professional\PayRoll\PayRoll\PayRoll\bin\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+D:\Professional\PayRoll\PayRoll\PayRoll\bin\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+D:\Professional\PayRoll\PayRoll\PayRoll\bin\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+D:\Professional\PayRoll\PayRoll\PayRoll\bin\Microsoft.VisualStudio.Shell.Interop.dll
+D:\Professional\PayRoll\PayRoll\PayRoll\bin\Microsoft.VisualStudio.OLE.Interop.dll
+D:\Professional\PayRoll\PayRoll\PayRoll\bin\CRVsPackageLib.dll
+D:\Professional\PayRoll\PayRoll\PayRoll\bin\Microsoft.VisualStudio.TemplateWizardInterface.dll
+D:\Professional\PayRoll\PayRoll\PayRoll\bin\EnvDTE.dll
+D:\Professional\PayRoll\PayRoll\PayRoll\bin\CrystalDecisions.Windows.Forms.dll
+D:\Professional\PayRoll\PayRoll\PayRoll\bin\VSLangProj.dll
+D:\Professional\PayRoll\PayRoll\PayRoll\bin\VsWebSite.Interop.dll
+D:\Professional\PayRoll\PayRoll\PayRoll\bin\EnvDTE80.dll
+D:\Professional\PayRoll\PayRoll\PayRoll\bin\CrystalDecisions.ReportAppServer.CommonControls.dll
+D:\Professional\PayRoll\PayRoll\PayRoll\bin\stdole.dll
+D:\Professional\PayRoll\PayRoll\PayRoll\bin\Microsoft.VisualStudio.TextManager.Interop.dll
+D:\Professional\PayRoll\PayRoll\PayRoll\bin\FlashControlV71.dll
+D:\Professional\PayRoll\PayRoll\PayRoll\bin\ShockwaveFlashObjects.dll
+D:\Professional\PayRoll\PayRoll\PayRoll\bin\Microsoft.VisualStudio.TemplateWizardInterface.xml
+D:\Professional\PayRoll\PayRoll\PayRoll\obj\Debug\PayRoll.csproj.CoreCompileInputs.cache
+D:\Professional\PayRoll_VS2015\PayRoll\PayRoll\PayRoll\bin\PayRoll.dll.config
+D:\Professional\PayRoll_VS2015\PayRoll\PayRoll\PayRoll\bin\PayRoll.dll
+D:\Professional\PayRoll_VS2015\PayRoll\PayRoll\PayRoll\bin\PayRoll.pdb
+D:\Professional\PayRoll_VS2015\PayRoll\PayRoll\PayRoll\bin\Antlr3.Runtime.dll
+D:\Professional\PayRoll_VS2015\PayRoll\PayRoll\PayRoll\bin\CrystalDecisions.CrystalReports.Design.dll
+D:\Professional\PayRoll_VS2015\PayRoll\PayRoll\PayRoll\bin\CrystalDecisions.CrystalReports.Engine.dll
+D:\Professional\PayRoll_VS2015\PayRoll\PayRoll\PayRoll\bin\CrystalDecisions.ReportSource.dll
+D:\Professional\PayRoll_VS2015\PayRoll\PayRoll\PayRoll\bin\CrystalDecisions.Shared.dll
+D:\Professional\PayRoll_VS2015\PayRoll\PayRoll\PayRoll\bin\CrystalDecisions.VSDesigner.dll
+D:\Professional\PayRoll_VS2015\PayRoll\PayRoll\PayRoll\bin\CrystalDecisions.Web.dll
+D:\Professional\PayRoll_VS2015\PayRoll\PayRoll\PayRoll\bin\Microsoft.AspNet.Identity.Core.dll
+D:\Professional\PayRoll_VS2015\PayRoll\PayRoll\PayRoll\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\Professional\PayRoll_VS2015\PayRoll\PayRoll\PayRoll\bin\Microsoft.Owin.dll
+D:\Professional\PayRoll_VS2015\PayRoll\PayRoll\PayRoll\bin\Microsoft.Owin.Security.Cookies.dll
+D:\Professional\PayRoll_VS2015\PayRoll\PayRoll\PayRoll\bin\Microsoft.Owin.Security.dll
+D:\Professional\PayRoll_VS2015\PayRoll\PayRoll\PayRoll\bin\Microsoft.Owin.Security.OAuth.dll
+D:\Professional\PayRoll_VS2015\PayRoll\PayRoll\PayRoll\bin\Microsoft.Web.Infrastructure.dll
+D:\Professional\PayRoll_VS2015\PayRoll\PayRoll\PayRoll\bin\Newtonsoft.Json.dll
+D:\Professional\PayRoll_VS2015\PayRoll\PayRoll\PayRoll\bin\Owin.dll
+D:\Professional\PayRoll_VS2015\PayRoll\PayRoll\PayRoll\bin\REXPOS.Core.dll
+D:\Professional\PayRoll_VS2015\PayRoll\PayRoll\PayRoll\bin\System.Web.Helpers.dll
+D:\Professional\PayRoll_VS2015\PayRoll\PayRoll\PayRoll\bin\System.Web.Mvc.dll
+D:\Professional\PayRoll_VS2015\PayRoll\PayRoll\PayRoll\bin\System.Web.Optimization.dll
+D:\Professional\PayRoll_VS2015\PayRoll\PayRoll\PayRoll\bin\System.Web.Razor.dll
+D:\Professional\PayRoll_VS2015\PayRoll\PayRoll\PayRoll\bin\System.Web.WebPages.Deployment.dll
+D:\Professional\PayRoll_VS2015\PayRoll\PayRoll\PayRoll\bin\System.Web.WebPages.dll
+D:\Professional\PayRoll_VS2015\PayRoll\PayRoll\PayRoll\bin\System.Web.WebPages.Razor.dll
+D:\Professional\PayRoll_VS2015\PayRoll\PayRoll\PayRoll\bin\WebGrease.dll
+D:\Professional\PayRoll_VS2015\PayRoll\PayRoll\PayRoll\bin\CrystalDecisions.ReportAppServer.DataDefModel.dll
+D:\Professional\PayRoll_VS2015\PayRoll\PayRoll\PayRoll\bin\CrystalDecisions.ReportAppServer.ClientDoc.dll
+D:\Professional\PayRoll_VS2015\PayRoll\PayRoll\PayRoll\bin\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+D:\Professional\PayRoll_VS2015\PayRoll\PayRoll\PayRoll\bin\CrystalDecisions.ReportAppServer.Controllers.dll
+D:\Professional\PayRoll_VS2015\PayRoll\PayRoll\PayRoll\bin\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+D:\Professional\PayRoll_VS2015\PayRoll\PayRoll\PayRoll\bin\CrystalDecisions.ReportAppServer.Prompting.dll
+D:\Professional\PayRoll_VS2015\PayRoll\PayRoll\PayRoll\bin\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+D:\Professional\PayRoll_VS2015\PayRoll\PayRoll\PayRoll\bin\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+D:\Professional\PayRoll_VS2015\PayRoll\PayRoll\PayRoll\bin\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+D:\Professional\PayRoll_VS2015\PayRoll\PayRoll\PayRoll\bin\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+D:\Professional\PayRoll_VS2015\PayRoll\PayRoll\PayRoll\bin\CRVsPackageLib.dll
+D:\Professional\PayRoll_VS2015\PayRoll\PayRoll\PayRoll\bin\Microsoft.VisualStudio.TemplateWizardInterface.dll
+D:\Professional\PayRoll_VS2015\PayRoll\PayRoll\PayRoll\bin\EnvDTE.dll
+D:\Professional\PayRoll_VS2015\PayRoll\PayRoll\PayRoll\bin\CrystalDecisions.Windows.Forms.dll
+D:\Professional\PayRoll_VS2015\PayRoll\PayRoll\PayRoll\bin\VSLangProj.dll
+D:\Professional\PayRoll_VS2015\PayRoll\PayRoll\PayRoll\bin\VsWebSite.Interop.dll
+D:\Professional\PayRoll_VS2015\PayRoll\PayRoll\PayRoll\bin\EnvDTE80.dll
+D:\Professional\PayRoll_VS2015\PayRoll\PayRoll\PayRoll\bin\CrystalDecisions.ReportAppServer.CommLayer.dll
+D:\Professional\PayRoll_VS2015\PayRoll\PayRoll\PayRoll\bin\CrystalDecisions.ReportAppServer.CommonControls.dll
+D:\Professional\PayRoll_VS2015\PayRoll\PayRoll\PayRoll\bin\stdole.dll
+D:\Professional\PayRoll_VS2015\PayRoll\PayRoll\PayRoll\bin\FlashControlV71.dll
+D:\Professional\PayRoll_VS2015\PayRoll\PayRoll\PayRoll\bin\ShockwaveFlashObjects.dll
+D:\Professional\PayRoll_VS2015\PayRoll\PayRoll\PayRoll\bin\REXPOS.Core.pdb
+D:\Professional\PayRoll_VS2015\PayRoll\PayRoll\PayRoll\bin\Microsoft.AspNet.Identity.Core.xml
+D:\Professional\PayRoll_VS2015\PayRoll\PayRoll\PayRoll\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\Professional\PayRoll_VS2015\PayRoll\PayRoll\PayRoll\bin\Microsoft.Owin.xml
+D:\Professional\PayRoll_VS2015\PayRoll\PayRoll\PayRoll\bin\Microsoft.Owin.Security.xml
+D:\Professional\PayRoll_VS2015\PayRoll\PayRoll\PayRoll\bin\Microsoft.Owin.Security.Cookies.xml
+D:\Professional\PayRoll_VS2015\PayRoll\PayRoll\PayRoll\bin\Microsoft.Owin.Security.OAuth.xml
+D:\Professional\PayRoll_VS2015\PayRoll\PayRoll\PayRoll\bin\System.Web.Helpers.xml
+D:\Professional\PayRoll_VS2015\PayRoll\PayRoll\PayRoll\bin\System.Web.Mvc.xml
+D:\Professional\PayRoll_VS2015\PayRoll\PayRoll\PayRoll\bin\System.Web.Optimization.xml
+D:\Professional\PayRoll_VS2015\PayRoll\PayRoll\PayRoll\bin\System.Web.Razor.xml
+D:\Professional\PayRoll_VS2015\PayRoll\PayRoll\PayRoll\bin\System.Web.WebPages.xml
+D:\Professional\PayRoll_VS2015\PayRoll\PayRoll\PayRoll\bin\System.Web.WebPages.Deployment.xml
+D:\Professional\PayRoll_VS2015\PayRoll\PayRoll\PayRoll\bin\System.Web.WebPages.Razor.xml
+D:\Professional\PayRoll_VS2015\PayRoll\PayRoll\PayRoll\bin\Newtonsoft.Json.xml
+D:\Professional\PayRoll_VS2015\PayRoll\PayRoll\PayRoll\bin\Antlr3.Runtime.pdb
+D:\Professional\PayRoll_VS2015\PayRoll\PayRoll\PayRoll\bin\Microsoft.VisualStudio.TemplateWizardInterface.xml
+D:\Professional\PayRoll_VS2015\PayRoll\PayRoll\PayRoll\obj\Debug\PayRoll.csprojResolveAssemblyReference.cache
+D:\Professional\PayRoll_VS2015\PayRoll\PayRoll\PayRoll\obj\Debug\PayRoll.dll
+D:\Professional\PayRoll_VS2015\PayRoll\PayRoll\PayRoll\obj\Debug\PayRoll.pdb
+D:\RazuAhammed\Local Disk\Professional\PayRoll_VS2015\PayRoll\PayRoll\PayRoll\bin\PayRoll.dll.config
+D:\RazuAhammed\Local Disk\Professional\PayRoll_VS2015\PayRoll\PayRoll\PayRoll\bin\PayRoll.dll
+D:\RazuAhammed\Local Disk\Professional\PayRoll_VS2015\PayRoll\PayRoll\PayRoll\bin\PayRoll.pdb
+D:\RazuAhammed\Local Disk\Professional\PayRoll_VS2015\PayRoll\PayRoll\PayRoll\bin\Antlr3.Runtime.dll
+D:\RazuAhammed\Local Disk\Professional\PayRoll_VS2015\PayRoll\PayRoll\PayRoll\bin\CrystalDecisions.CrystalReports.Design.dll
+D:\RazuAhammed\Local Disk\Professional\PayRoll_VS2015\PayRoll\PayRoll\PayRoll\bin\CrystalDecisions.CrystalReports.Engine.dll
+D:\RazuAhammed\Local Disk\Professional\PayRoll_VS2015\PayRoll\PayRoll\PayRoll\bin\CrystalDecisions.ReportSource.dll
+D:\RazuAhammed\Local Disk\Professional\PayRoll_VS2015\PayRoll\PayRoll\PayRoll\bin\CrystalDecisions.Shared.dll
+D:\RazuAhammed\Local Disk\Professional\PayRoll_VS2015\PayRoll\PayRoll\PayRoll\bin\CrystalDecisions.VSDesigner.dll
+D:\RazuAhammed\Local Disk\Professional\PayRoll_VS2015\PayRoll\PayRoll\PayRoll\bin\CrystalDecisions.Web.dll
+D:\RazuAhammed\Local Disk\Professional\PayRoll_VS2015\PayRoll\PayRoll\PayRoll\bin\Microsoft.AspNet.Identity.Core.dll
+D:\RazuAhammed\Local Disk\Professional\PayRoll_VS2015\PayRoll\PayRoll\PayRoll\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\RazuAhammed\Local Disk\Professional\PayRoll_VS2015\PayRoll\PayRoll\PayRoll\bin\Microsoft.Owin.dll
+D:\RazuAhammed\Local Disk\Professional\PayRoll_VS2015\PayRoll\PayRoll\PayRoll\bin\Microsoft.Owin.Security.Cookies.dll
+D:\RazuAhammed\Local Disk\Professional\PayRoll_VS2015\PayRoll\PayRoll\PayRoll\bin\Microsoft.Owin.Security.dll
+D:\RazuAhammed\Local Disk\Professional\PayRoll_VS2015\PayRoll\PayRoll\PayRoll\bin\Microsoft.Owin.Security.OAuth.dll
+D:\RazuAhammed\Local Disk\Professional\PayRoll_VS2015\PayRoll\PayRoll\PayRoll\bin\Microsoft.Web.Infrastructure.dll
+D:\RazuAhammed\Local Disk\Professional\PayRoll_VS2015\PayRoll\PayRoll\PayRoll\bin\Newtonsoft.Json.dll
+D:\RazuAhammed\Local Disk\Professional\PayRoll_VS2015\PayRoll\PayRoll\PayRoll\bin\Owin.dll
+D:\RazuAhammed\Local Disk\Professional\PayRoll_VS2015\PayRoll\PayRoll\PayRoll\bin\REXPOS.Core.dll
+D:\RazuAhammed\Local Disk\Professional\PayRoll_VS2015\PayRoll\PayRoll\PayRoll\bin\System.Web.Helpers.dll
+D:\RazuAhammed\Local Disk\Professional\PayRoll_VS2015\PayRoll\PayRoll\PayRoll\bin\System.Web.Mvc.dll
+D:\RazuAhammed\Local Disk\Professional\PayRoll_VS2015\PayRoll\PayRoll\PayRoll\bin\System.Web.Optimization.dll
+D:\RazuAhammed\Local Disk\Professional\PayRoll_VS2015\PayRoll\PayRoll\PayRoll\bin\System.Web.Razor.dll
+D:\RazuAhammed\Local Disk\Professional\PayRoll_VS2015\PayRoll\PayRoll\PayRoll\bin\System.Web.WebPages.Deployment.dll
+D:\RazuAhammed\Local Disk\Professional\PayRoll_VS2015\PayRoll\PayRoll\PayRoll\bin\System.Web.WebPages.dll
+D:\RazuAhammed\Local Disk\Professional\PayRoll_VS2015\PayRoll\PayRoll\PayRoll\bin\System.Web.WebPages.Razor.dll
+D:\RazuAhammed\Local Disk\Professional\PayRoll_VS2015\PayRoll\PayRoll\PayRoll\bin\WebGrease.dll
+D:\RazuAhammed\Local Disk\Professional\PayRoll_VS2015\PayRoll\PayRoll\PayRoll\bin\CrystalDecisions.ReportAppServer.CommLayer.dll
+D:\RazuAhammed\Local Disk\Professional\PayRoll_VS2015\PayRoll\PayRoll\PayRoll\bin\CRVsPackageLib.dll
+D:\RazuAhammed\Local Disk\Professional\PayRoll_VS2015\PayRoll\PayRoll\PayRoll\bin\Microsoft.VisualStudio.TemplateWizardInterface.dll
+D:\RazuAhammed\Local Disk\Professional\PayRoll_VS2015\PayRoll\PayRoll\PayRoll\bin\EnvDTE.dll
+D:\RazuAhammed\Local Disk\Professional\PayRoll_VS2015\PayRoll\PayRoll\PayRoll\bin\VSLangProj.dll
+D:\RazuAhammed\Local Disk\Professional\PayRoll_VS2015\PayRoll\PayRoll\PayRoll\bin\VsWebSite.Interop.dll
+D:\RazuAhammed\Local Disk\Professional\PayRoll_VS2015\PayRoll\PayRoll\PayRoll\bin\EnvDTE80.dll
+D:\RazuAhammed\Local Disk\Professional\PayRoll_VS2015\PayRoll\PayRoll\PayRoll\bin\stdole.dll
+D:\RazuAhammed\Local Disk\Professional\PayRoll_VS2015\PayRoll\PayRoll\PayRoll\bin\REXPOS.Core.pdb
+D:\RazuAhammed\Local Disk\Professional\PayRoll_VS2015\PayRoll\PayRoll\PayRoll\bin\Microsoft.AspNet.Identity.Core.xml
+D:\RazuAhammed\Local Disk\Professional\PayRoll_VS2015\PayRoll\PayRoll\PayRoll\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\RazuAhammed\Local Disk\Professional\PayRoll_VS2015\PayRoll\PayRoll\PayRoll\bin\Microsoft.Owin.xml
+D:\RazuAhammed\Local Disk\Professional\PayRoll_VS2015\PayRoll\PayRoll\PayRoll\bin\Microsoft.Owin.Security.xml
+D:\RazuAhammed\Local Disk\Professional\PayRoll_VS2015\PayRoll\PayRoll\PayRoll\bin\Microsoft.Owin.Security.Cookies.xml
+D:\RazuAhammed\Local Disk\Professional\PayRoll_VS2015\PayRoll\PayRoll\PayRoll\bin\Microsoft.Owin.Security.OAuth.xml
+D:\RazuAhammed\Local Disk\Professional\PayRoll_VS2015\PayRoll\PayRoll\PayRoll\bin\System.Web.Helpers.xml
+D:\RazuAhammed\Local Disk\Professional\PayRoll_VS2015\PayRoll\PayRoll\PayRoll\bin\System.Web.Mvc.xml
+D:\RazuAhammed\Local Disk\Professional\PayRoll_VS2015\PayRoll\PayRoll\PayRoll\bin\System.Web.Optimization.xml
+D:\RazuAhammed\Local Disk\Professional\PayRoll_VS2015\PayRoll\PayRoll\PayRoll\bin\System.Web.Razor.xml
+D:\RazuAhammed\Local Disk\Professional\PayRoll_VS2015\PayRoll\PayRoll\PayRoll\bin\System.Web.WebPages.xml
+D:\RazuAhammed\Local Disk\Professional\PayRoll_VS2015\PayRoll\PayRoll\PayRoll\bin\System.Web.WebPages.Deployment.xml
+D:\RazuAhammed\Local Disk\Professional\PayRoll_VS2015\PayRoll\PayRoll\PayRoll\bin\System.Web.WebPages.Razor.xml
+D:\RazuAhammed\Local Disk\Professional\PayRoll_VS2015\PayRoll\PayRoll\PayRoll\bin\Newtonsoft.Json.xml
+D:\RazuAhammed\Local Disk\Professional\PayRoll_VS2015\PayRoll\PayRoll\PayRoll\bin\Antlr3.Runtime.pdb
+D:\RazuAhammed\Local Disk\Professional\PayRoll_VS2015\PayRoll\PayRoll\PayRoll\bin\Microsoft.VisualStudio.TemplateWizardInterface.xml
+D:\RazuAhammed\Local Disk\Professional\PayRoll_VS2015\PayRoll\PayRoll\PayRoll\obj\Debug\PayRoll.csprojResolveAssemblyReference.cache
+D:\RazuAhammed\Local Disk\Professional\PayRoll_VS2015\PayRoll\PayRoll\PayRoll\obj\Debug\PayRoll.dll
+D:\RazuAhammed\Local Disk\Professional\PayRoll_VS2015\PayRoll\PayRoll\PayRoll\obj\Debug\PayRoll.pdb
+D:\RazuAhammed\Local Disk\Professional\PayRoll_VS2015\PayRoll\PayRoll\PayRoll\bin\CrystalDecisions.ReportAppServer.DataDefModel.dll
+D:\RazuAhammed\Local Disk\Professional\PayRoll_VS2015\PayRoll\PayRoll\PayRoll\bin\CrystalDecisions.ReportAppServer.ClientDoc.dll
+D:\RazuAhammed\Local Disk\Professional\PayRoll_VS2015\PayRoll\PayRoll\PayRoll\bin\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+D:\RazuAhammed\Local Disk\Professional\PayRoll_VS2015\PayRoll\PayRoll\PayRoll\bin\CrystalDecisions.ReportAppServer.Controllers.dll
+D:\RazuAhammed\Local Disk\Professional\PayRoll_VS2015\PayRoll\PayRoll\PayRoll\bin\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+D:\RazuAhammed\Local Disk\Professional\PayRoll_VS2015\PayRoll\PayRoll\PayRoll\bin\CrystalDecisions.ReportAppServer.Prompting.dll
+D:\RazuAhammed\Local Disk\Professional\PayRoll_VS2015\PayRoll\PayRoll\PayRoll\bin\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+D:\RazuAhammed\Local Disk\Professional\PayRoll_VS2015\PayRoll\PayRoll\PayRoll\bin\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+D:\RazuAhammed\Local Disk\Professional\PayRoll_VS2015\PayRoll\PayRoll\PayRoll\bin\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+D:\RazuAhammed\Local Disk\Professional\PayRoll_VS2015\PayRoll\PayRoll\PayRoll\bin\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+D:\RazuAhammed\Local Disk\Professional\PayRoll_VS2015\PayRoll\PayRoll\PayRoll\bin\CrystalDecisions.Windows.Forms.dll
+D:\RazuAhammed\Local Disk\Professional\PayRoll_VS2015\PayRoll\PayRoll\PayRoll\bin\CrystalDecisions.ReportAppServer.CommonControls.dll
+D:\RazuAhammed\Local Disk\Professional\PayRoll_VS2015\PayRoll\PayRoll\PayRoll\bin\FlashControlV71.dll
+D:\RazuAhammed\Local Disk\Professional\PayRoll_VS2015\PayRoll\PayRoll\PayRoll\bin\ShockwaveFlashObjects.dll
+E:\Development\Product\Jubayer Shafkat\PayRoll\PayRoll\PayRoll\bin\PayRoll.dll.config
+E:\Development\Product\Jubayer Shafkat\PayRoll\PayRoll\PayRoll\bin\PayRoll.dll
+E:\Development\Product\Jubayer Shafkat\PayRoll\PayRoll\PayRoll\bin\PayRoll.pdb
+E:\Development\Product\Jubayer Shafkat\PayRoll\PayRoll\PayRoll\bin\Antlr3.Runtime.dll
+E:\Development\Product\Jubayer Shafkat\PayRoll\PayRoll\PayRoll\bin\CrystalDecisions.CrystalReports.Design.dll
+E:\Development\Product\Jubayer Shafkat\PayRoll\PayRoll\PayRoll\bin\CrystalDecisions.CrystalReports.Engine.dll
+E:\Development\Product\Jubayer Shafkat\PayRoll\PayRoll\PayRoll\bin\CrystalDecisions.ReportSource.dll
+E:\Development\Product\Jubayer Shafkat\PayRoll\PayRoll\PayRoll\bin\CrystalDecisions.Shared.dll
+E:\Development\Product\Jubayer Shafkat\PayRoll\PayRoll\PayRoll\bin\CrystalDecisions.VSDesigner.dll
+E:\Development\Product\Jubayer Shafkat\PayRoll\PayRoll\PayRoll\bin\CrystalDecisions.Web.dll
+E:\Development\Product\Jubayer Shafkat\PayRoll\PayRoll\PayRoll\bin\Microsoft.AspNet.Identity.Core.dll
+E:\Development\Product\Jubayer Shafkat\PayRoll\PayRoll\PayRoll\bin\Microsoft.AspNet.Identity.Owin.dll
+E:\Development\Product\Jubayer Shafkat\PayRoll\PayRoll\PayRoll\bin\Microsoft.Owin.dll
+E:\Development\Product\Jubayer Shafkat\PayRoll\PayRoll\PayRoll\bin\Microsoft.Owin.Security.Cookies.dll
+E:\Development\Product\Jubayer Shafkat\PayRoll\PayRoll\PayRoll\bin\Microsoft.Owin.Security.dll
+E:\Development\Product\Jubayer Shafkat\PayRoll\PayRoll\PayRoll\bin\Microsoft.Owin.Security.OAuth.dll
+E:\Development\Product\Jubayer Shafkat\PayRoll\PayRoll\PayRoll\bin\Microsoft.Web.Infrastructure.dll
+E:\Development\Product\Jubayer Shafkat\PayRoll\PayRoll\PayRoll\bin\Newtonsoft.Json.dll
+E:\Development\Product\Jubayer Shafkat\PayRoll\PayRoll\PayRoll\bin\Owin.dll
+E:\Development\Product\Jubayer Shafkat\PayRoll\PayRoll\PayRoll\bin\REXPOS.Core.dll
+E:\Development\Product\Jubayer Shafkat\PayRoll\PayRoll\PayRoll\bin\System.Web.Helpers.dll
+E:\Development\Product\Jubayer Shafkat\PayRoll\PayRoll\PayRoll\bin\System.Web.Mvc.dll
+E:\Development\Product\Jubayer Shafkat\PayRoll\PayRoll\PayRoll\bin\System.Web.Optimization.dll
+E:\Development\Product\Jubayer Shafkat\PayRoll\PayRoll\PayRoll\bin\System.Web.Razor.dll
+E:\Development\Product\Jubayer Shafkat\PayRoll\PayRoll\PayRoll\bin\System.Web.WebPages.Deployment.dll
+E:\Development\Product\Jubayer Shafkat\PayRoll\PayRoll\PayRoll\bin\System.Web.WebPages.dll
+E:\Development\Product\Jubayer Shafkat\PayRoll\PayRoll\PayRoll\bin\System.Web.WebPages.Razor.dll
+E:\Development\Product\Jubayer Shafkat\PayRoll\PayRoll\PayRoll\bin\WebGrease.dll
+E:\Development\Product\Jubayer Shafkat\PayRoll\PayRoll\PayRoll\bin\CrystalDecisions.ReportAppServer.DataDefModel.dll
+E:\Development\Product\Jubayer Shafkat\PayRoll\PayRoll\PayRoll\bin\CrystalDecisions.ReportAppServer.ClientDoc.dll
+E:\Development\Product\Jubayer Shafkat\PayRoll\PayRoll\PayRoll\bin\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+E:\Development\Product\Jubayer Shafkat\PayRoll\PayRoll\PayRoll\bin\CrystalDecisions.ReportAppServer.Controllers.dll
+E:\Development\Product\Jubayer Shafkat\PayRoll\PayRoll\PayRoll\bin\CrystalDecisions.ReportAppServer.CommLayer.dll
+E:\Development\Product\Jubayer Shafkat\PayRoll\PayRoll\PayRoll\bin\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+E:\Development\Product\Jubayer Shafkat\PayRoll\PayRoll\PayRoll\bin\CrystalDecisions.ReportAppServer.Prompting.dll
+E:\Development\Product\Jubayer Shafkat\PayRoll\PayRoll\PayRoll\bin\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+E:\Development\Product\Jubayer Shafkat\PayRoll\PayRoll\PayRoll\bin\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+E:\Development\Product\Jubayer Shafkat\PayRoll\PayRoll\PayRoll\bin\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+E:\Development\Product\Jubayer Shafkat\PayRoll\PayRoll\PayRoll\bin\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+E:\Development\Product\Jubayer Shafkat\PayRoll\PayRoll\PayRoll\bin\CRVsPackageLib.dll
+E:\Development\Product\Jubayer Shafkat\PayRoll\PayRoll\PayRoll\bin\Microsoft.VisualStudio.TemplateWizardInterface.dll
+E:\Development\Product\Jubayer Shafkat\PayRoll\PayRoll\PayRoll\bin\EnvDTE.dll
+E:\Development\Product\Jubayer Shafkat\PayRoll\PayRoll\PayRoll\bin\CrystalDecisions.Windows.Forms.dll
+E:\Development\Product\Jubayer Shafkat\PayRoll\PayRoll\PayRoll\bin\VSLangProj.dll
+E:\Development\Product\Jubayer Shafkat\PayRoll\PayRoll\PayRoll\bin\VsWebSite.Interop.dll
+E:\Development\Product\Jubayer Shafkat\PayRoll\PayRoll\PayRoll\bin\EnvDTE80.dll
+E:\Development\Product\Jubayer Shafkat\PayRoll\PayRoll\PayRoll\bin\CrystalDecisions.ReportAppServer.CommonControls.dll
+E:\Development\Product\Jubayer Shafkat\PayRoll\PayRoll\PayRoll\bin\stdole.dll
+E:\Development\Product\Jubayer Shafkat\PayRoll\PayRoll\PayRoll\bin\FlashControlV71.dll
+E:\Development\Product\Jubayer Shafkat\PayRoll\PayRoll\PayRoll\bin\ShockwaveFlashObjects.dll
+E:\Development\Product\Jubayer Shafkat\PayRoll\PayRoll\PayRoll\bin\REXPOS.Core.pdb
+E:\Development\Product\Jubayer Shafkat\PayRoll\PayRoll\PayRoll\bin\Microsoft.AspNet.Identity.Core.xml
+E:\Development\Product\Jubayer Shafkat\PayRoll\PayRoll\PayRoll\bin\Microsoft.AspNet.Identity.Owin.xml
+E:\Development\Product\Jubayer Shafkat\PayRoll\PayRoll\PayRoll\bin\Microsoft.Owin.xml
+E:\Development\Product\Jubayer Shafkat\PayRoll\PayRoll\PayRoll\bin\Microsoft.Owin.Security.xml
+E:\Development\Product\Jubayer Shafkat\PayRoll\PayRoll\PayRoll\bin\Microsoft.Owin.Security.Cookies.xml
+E:\Development\Product\Jubayer Shafkat\PayRoll\PayRoll\PayRoll\bin\Microsoft.Owin.Security.OAuth.xml
+E:\Development\Product\Jubayer Shafkat\PayRoll\PayRoll\PayRoll\bin\System.Web.Helpers.xml
+E:\Development\Product\Jubayer Shafkat\PayRoll\PayRoll\PayRoll\bin\System.Web.Mvc.xml
+E:\Development\Product\Jubayer Shafkat\PayRoll\PayRoll\PayRoll\bin\System.Web.Optimization.xml
+E:\Development\Product\Jubayer Shafkat\PayRoll\PayRoll\PayRoll\bin\System.Web.Razor.xml
+E:\Development\Product\Jubayer Shafkat\PayRoll\PayRoll\PayRoll\bin\System.Web.WebPages.xml
+E:\Development\Product\Jubayer Shafkat\PayRoll\PayRoll\PayRoll\bin\System.Web.WebPages.Deployment.xml
+E:\Development\Product\Jubayer Shafkat\PayRoll\PayRoll\PayRoll\bin\System.Web.WebPages.Razor.xml
+E:\Development\Product\Jubayer Shafkat\PayRoll\PayRoll\PayRoll\bin\Newtonsoft.Json.xml
+E:\Development\Product\Jubayer Shafkat\PayRoll\PayRoll\PayRoll\bin\Antlr3.Runtime.pdb
+E:\Development\Product\Jubayer Shafkat\PayRoll\PayRoll\PayRoll\bin\Microsoft.VisualStudio.TemplateWizardInterface.xml
+E:\Development\Product\Jubayer Shafkat\PayRoll\PayRoll\PayRoll\obj\Debug\PayRoll.csprojResolveAssemblyReference.cache
+E:\Development\Product\Jubayer Shafkat\PayRoll\PayRoll\PayRoll\obj\Debug\PayRoll.dll
+E:\Development\Product\Jubayer Shafkat\PayRoll\PayRoll\PayRoll\obj\Debug\PayRoll.pdb
+E:\Development\Product\PayRoll\PayRoll\PayRoll\bin\PayRoll.dll.config
+E:\Development\Product\PayRoll\PayRoll\PayRoll\bin\PayRoll.dll
+E:\Development\Product\PayRoll\PayRoll\PayRoll\bin\PayRoll.pdb
+E:\Development\Product\PayRoll\PayRoll\PayRoll\bin\Antlr3.Runtime.dll
+E:\Development\Product\PayRoll\PayRoll\PayRoll\bin\CrystalDecisions.CrystalReports.Design.dll
+E:\Development\Product\PayRoll\PayRoll\PayRoll\bin\CrystalDecisions.CrystalReports.Engine.dll
+E:\Development\Product\PayRoll\PayRoll\PayRoll\bin\CrystalDecisions.ReportSource.dll
+E:\Development\Product\PayRoll\PayRoll\PayRoll\bin\CrystalDecisions.Shared.dll
+E:\Development\Product\PayRoll\PayRoll\PayRoll\bin\CrystalDecisions.VSDesigner.dll
+E:\Development\Product\PayRoll\PayRoll\PayRoll\bin\CrystalDecisions.Web.dll
+E:\Development\Product\PayRoll\PayRoll\PayRoll\bin\Microsoft.AspNet.Identity.Core.dll
+E:\Development\Product\PayRoll\PayRoll\PayRoll\bin\Microsoft.AspNet.Identity.Owin.dll
+E:\Development\Product\PayRoll\PayRoll\PayRoll\bin\Microsoft.Owin.dll
+E:\Development\Product\PayRoll\PayRoll\PayRoll\bin\Microsoft.Owin.Security.Cookies.dll
+E:\Development\Product\PayRoll\PayRoll\PayRoll\bin\Microsoft.Owin.Security.dll
+E:\Development\Product\PayRoll\PayRoll\PayRoll\bin\Microsoft.Owin.Security.OAuth.dll
+E:\Development\Product\PayRoll\PayRoll\PayRoll\bin\Microsoft.Web.Infrastructure.dll
+E:\Development\Product\PayRoll\PayRoll\PayRoll\bin\Newtonsoft.Json.dll
+E:\Development\Product\PayRoll\PayRoll\PayRoll\bin\Owin.dll
+E:\Development\Product\PayRoll\PayRoll\PayRoll\bin\REXPOS.Core.dll
+E:\Development\Product\PayRoll\PayRoll\PayRoll\bin\System.Web.Helpers.dll
+E:\Development\Product\PayRoll\PayRoll\PayRoll\bin\System.Web.Mvc.dll
+E:\Development\Product\PayRoll\PayRoll\PayRoll\bin\System.Web.Optimization.dll
+E:\Development\Product\PayRoll\PayRoll\PayRoll\bin\System.Web.Razor.dll
+E:\Development\Product\PayRoll\PayRoll\PayRoll\bin\System.Web.WebPages.Deployment.dll
+E:\Development\Product\PayRoll\PayRoll\PayRoll\bin\System.Web.WebPages.dll
+E:\Development\Product\PayRoll\PayRoll\PayRoll\bin\System.Web.WebPages.Razor.dll
+E:\Development\Product\PayRoll\PayRoll\PayRoll\bin\WebGrease.dll
+E:\Development\Product\PayRoll\PayRoll\PayRoll\bin\CrystalDecisions.ReportAppServer.DataDefModel.dll
+E:\Development\Product\PayRoll\PayRoll\PayRoll\bin\CrystalDecisions.ReportAppServer.ClientDoc.dll
+E:\Development\Product\PayRoll\PayRoll\PayRoll\bin\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+E:\Development\Product\PayRoll\PayRoll\PayRoll\bin\CrystalDecisions.ReportAppServer.Controllers.dll
+E:\Development\Product\PayRoll\PayRoll\PayRoll\bin\CrystalDecisions.ReportAppServer.CommLayer.dll
+E:\Development\Product\PayRoll\PayRoll\PayRoll\bin\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+E:\Development\Product\PayRoll\PayRoll\PayRoll\bin\CrystalDecisions.ReportAppServer.Prompting.dll
+E:\Development\Product\PayRoll\PayRoll\PayRoll\bin\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+E:\Development\Product\PayRoll\PayRoll\PayRoll\bin\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+E:\Development\Product\PayRoll\PayRoll\PayRoll\bin\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+E:\Development\Product\PayRoll\PayRoll\PayRoll\bin\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+E:\Development\Product\PayRoll\PayRoll\PayRoll\bin\CRVsPackageLib.dll
+E:\Development\Product\PayRoll\PayRoll\PayRoll\bin\Microsoft.VisualStudio.TemplateWizardInterface.dll
+E:\Development\Product\PayRoll\PayRoll\PayRoll\bin\EnvDTE.dll
+E:\Development\Product\PayRoll\PayRoll\PayRoll\bin\CrystalDecisions.Windows.Forms.dll
+E:\Development\Product\PayRoll\PayRoll\PayRoll\bin\VSLangProj.dll
+E:\Development\Product\PayRoll\PayRoll\PayRoll\bin\VsWebSite.Interop.dll
+E:\Development\Product\PayRoll\PayRoll\PayRoll\bin\EnvDTE80.dll
+E:\Development\Product\PayRoll\PayRoll\PayRoll\bin\CrystalDecisions.ReportAppServer.CommonControls.dll
+E:\Development\Product\PayRoll\PayRoll\PayRoll\bin\stdole.dll
+E:\Development\Product\PayRoll\PayRoll\PayRoll\bin\FlashControlV71.dll
+E:\Development\Product\PayRoll\PayRoll\PayRoll\bin\ShockwaveFlashObjects.dll
+E:\Development\Product\PayRoll\PayRoll\PayRoll\bin\REXPOS.Core.pdb
+E:\Development\Product\PayRoll\PayRoll\PayRoll\bin\Microsoft.AspNet.Identity.Core.xml
+E:\Development\Product\PayRoll\PayRoll\PayRoll\bin\Microsoft.AspNet.Identity.Owin.xml
+E:\Development\Product\PayRoll\PayRoll\PayRoll\bin\Microsoft.Owin.xml
+E:\Development\Product\PayRoll\PayRoll\PayRoll\bin\Microsoft.Owin.Security.xml
+E:\Development\Product\PayRoll\PayRoll\PayRoll\bin\Microsoft.Owin.Security.Cookies.xml
+E:\Development\Product\PayRoll\PayRoll\PayRoll\bin\Microsoft.Owin.Security.OAuth.xml
+E:\Development\Product\PayRoll\PayRoll\PayRoll\bin\System.Web.Helpers.xml
+E:\Development\Product\PayRoll\PayRoll\PayRoll\bin\System.Web.Mvc.xml
+E:\Development\Product\PayRoll\PayRoll\PayRoll\bin\System.Web.Optimization.xml
+E:\Development\Product\PayRoll\PayRoll\PayRoll\bin\System.Web.Razor.xml
+E:\Development\Product\PayRoll\PayRoll\PayRoll\bin\System.Web.WebPages.xml
+E:\Development\Product\PayRoll\PayRoll\PayRoll\bin\System.Web.WebPages.Deployment.xml
+E:\Development\Product\PayRoll\PayRoll\PayRoll\bin\System.Web.WebPages.Razor.xml
+E:\Development\Product\PayRoll\PayRoll\PayRoll\bin\Newtonsoft.Json.xml
+E:\Development\Product\PayRoll\PayRoll\PayRoll\bin\Antlr3.Runtime.pdb
+E:\Development\Product\PayRoll\PayRoll\PayRoll\bin\Microsoft.VisualStudio.TemplateWizardInterface.xml
+E:\Development\Product\PayRoll\PayRoll\PayRoll\obj\Debug\PayRoll.csprojResolveAssemblyReference.cache
+E:\Development\Product\PayRoll\PayRoll\PayRoll\obj\Debug\PayRoll.dll
+E:\Development\Product\PayRoll\PayRoll\PayRoll\obj\Debug\PayRoll.pdb

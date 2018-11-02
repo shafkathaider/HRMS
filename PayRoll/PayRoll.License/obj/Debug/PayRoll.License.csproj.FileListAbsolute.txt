@@ -1,0 +1,5 @@
+E:\Development\Product\PayRoll\PayRoll\PayRoll.License\bin\Debug\PayRoll.License.dll
+E:\Development\Product\PayRoll\PayRoll\PayRoll.License\bin\Debug\PayRoll.License.pdb
+E:\Development\Product\PayRoll\PayRoll\PayRoll.License\obj\Debug\PayRoll.License.csprojResolveAssemblyReference.cache
+E:\Development\Product\PayRoll\PayRoll\PayRoll.License\obj\Debug\PayRoll.License.dll
+E:\Development\Product\PayRoll\PayRoll\PayRoll.License\obj\Debug\PayRoll.License.pdb

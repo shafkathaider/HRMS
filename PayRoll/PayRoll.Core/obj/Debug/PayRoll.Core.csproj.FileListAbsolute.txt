@@ -1,0 +1,63 @@
+D:\Professional\PayRoll\PayRoll\REXPOS.Core\bin\Debug\REXPOS.Core.dll
+D:\Professional\PayRoll\PayRoll\REXPOS.Core\bin\Debug\REXPOS.Core.pdb
+D:\Professional\PayRoll\PayRoll\REXPOS.Core\obj\Debug\PayRoll.Core.csprojResolveAssemblyReference.cache
+D:\Professional\PayRoll\PayRoll\REXPOS.Core\obj\Debug\REXPOS.Core.dll
+D:\Professional\PayRoll\PayRoll\REXPOS.Core\obj\Debug\REXPOS.Core.pdb
+D:\Professional\PayRoll\PayRoll\PayRoll.Core\bin\Debug\REXPOS.Core.dll
+D:\Professional\PayRoll\PayRoll\PayRoll.Core\bin\Debug\REXPOS.Core.pdb
+D:\Professional\PayRoll\PayRoll\PayRoll.Core\obj\Debug\REXPOS.Core.dll
+D:\Professional\PayRoll\PayRoll\PayRoll.Core\obj\Debug\REXPOS.Core.pdb
+D:\Professional\PayRoll\PayRoll\PayRoll.Core\obj\Debug\PayRoll.Core.csprojResolveAssemblyReference.cache
+D:\Professional\PayRoll\PayRoll\PayRoll.Core\obj\Debug\PayRoll.Core.csproj.CoreCompileInputs.cache
+D:\Professional\PayRoll\PayRoll\PayRoll.Core\bin\Debug\System.Web.Mvc.dll
+D:\Professional\PayRoll\PayRoll\PayRoll.Core\bin\Debug\System.Web.Mvc.xml
+D:\Professional\PayRoll_VS2015\PayRoll\PayRoll\PayRoll.Core\bin\Debug\REXPOS.Core.dll
+D:\Professional\PayRoll_VS2015\PayRoll\PayRoll\PayRoll.Core\bin\Debug\REXPOS.Core.pdb
+D:\Professional\PayRoll_VS2015\PayRoll\PayRoll\PayRoll.Core\bin\Debug\System.Web.Mvc.dll
+D:\Professional\PayRoll_VS2015\PayRoll\PayRoll\PayRoll.Core\bin\Debug\System.Web.Mvc.xml
+D:\Professional\PayRoll_VS2015\PayRoll\PayRoll\PayRoll.Core\obj\Debug\REXPOS.Core.dll
+D:\Professional\PayRoll_VS2015\PayRoll\PayRoll\PayRoll.Core\obj\Debug\REXPOS.Core.pdb
+D:\RazuAhammed\Local Disk\Professional\PayRoll_VS2015\PayRoll\PayRoll\PayRoll.Core\bin\Debug\REXPOS.Core.dll
+D:\RazuAhammed\Local Disk\Professional\PayRoll_VS2015\PayRoll\PayRoll\PayRoll.Core\bin\Debug\REXPOS.Core.pdb
+D:\RazuAhammed\Local Disk\Professional\PayRoll_VS2015\PayRoll\PayRoll\PayRoll.Core\bin\Debug\System.Web.Mvc.dll
+D:\RazuAhammed\Local Disk\Professional\PayRoll_VS2015\PayRoll\PayRoll\PayRoll.Core\bin\Debug\System.Web.Mvc.xml
+D:\RazuAhammed\Local Disk\Professional\PayRoll_VS2015\PayRoll\PayRoll\PayRoll.Core\obj\Debug\PayRoll.Core.csprojResolveAssemblyReference.cache
+D:\RazuAhammed\Local Disk\Professional\PayRoll_VS2015\PayRoll\PayRoll\PayRoll.Core\obj\Debug\REXPOS.Core.dll
+D:\RazuAhammed\Local Disk\Professional\PayRoll_VS2015\PayRoll\PayRoll\PayRoll.Core\obj\Debug\REXPOS.Core.pdb
+E:\Development\Product\Jubayer Shafkat\PayRoll\PayRoll\PayRoll.Core\bin\Debug\REXPOS.Core.dll
+E:\Development\Product\Jubayer Shafkat\PayRoll\PayRoll\PayRoll.Core\bin\Debug\REXPOS.Core.pdb
+E:\Development\Product\Jubayer Shafkat\PayRoll\PayRoll\PayRoll.Core\bin\Debug\System.Web.Mvc.dll
+E:\Development\Product\Jubayer Shafkat\PayRoll\PayRoll\PayRoll.Core\bin\Debug\Microsoft.Web.Infrastructure.dll
+E:\Development\Product\Jubayer Shafkat\PayRoll\PayRoll\PayRoll.Core\bin\Debug\System.Web.Mvc.xml
+E:\Development\Product\Jubayer Shafkat\PayRoll\PayRoll\PayRoll.Core\bin\Debug\Microsoft.Web.Infrastructure.xml
+E:\Development\Product\Jubayer Shafkat\PayRoll\PayRoll\PayRoll.Core\obj\Debug\PayRoll.Core.csprojResolveAssemblyReference.cache
+E:\Development\Product\Jubayer Shafkat\PayRoll\PayRoll\PayRoll.Core\obj\Debug\REXPOS.Core.dll
+E:\Development\Product\Jubayer Shafkat\PayRoll\PayRoll\PayRoll.Core\obj\Debug\REXPOS.Core.pdb
+E:\Development\Product\PayRoll\PayRoll\PayRoll.Core\bin\Debug\REXPOS.Core.dll
+E:\Development\Product\PayRoll\PayRoll\PayRoll.Core\bin\Debug\REXPOS.Core.pdb
+E:\Development\Product\PayRoll\PayRoll\PayRoll.Core\bin\Debug\CrystalDecisions.CrystalReports.Design.dll
+E:\Development\Product\PayRoll\PayRoll\PayRoll.Core\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+E:\Development\Product\PayRoll\PayRoll\PayRoll.Core\bin\Debug\CrystalDecisions.Data.AdoDotNetInterop.dll
+E:\Development\Product\PayRoll\PayRoll\PayRoll.Core\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+E:\Development\Product\PayRoll\PayRoll\PayRoll.Core\bin\Debug\CrystalDecisions.ReportSource.dll
+E:\Development\Product\PayRoll\PayRoll\PayRoll.Core\bin\Debug\CrystalDecisions.Shared.dll
+E:\Development\Product\PayRoll\PayRoll\PayRoll.Core\bin\Debug\CrystalDecisions.VSDesigner.dll
+E:\Development\Product\PayRoll\PayRoll\PayRoll.Core\bin\Debug\CrystalDecisions.Web.dll
+E:\Development\Product\PayRoll\PayRoll\PayRoll.Core\bin\Debug\CrystalDecisions.Windows.Forms.dll
+E:\Development\Product\PayRoll\PayRoll\PayRoll.Core\bin\Debug\System.Web.Mvc.dll
+E:\Development\Product\PayRoll\PayRoll\PayRoll.Core\bin\Debug\CRVsPackageLib.dll
+E:\Development\Product\PayRoll\PayRoll\PayRoll.Core\bin\Debug\Microsoft.VisualStudio.TemplateWizardInterface.dll
+E:\Development\Product\PayRoll\PayRoll\PayRoll.Core\bin\Debug\EnvDTE.dll
+E:\Development\Product\PayRoll\PayRoll\PayRoll.Core\bin\Debug\VSLangProj.dll
+E:\Development\Product\PayRoll\PayRoll\PayRoll.Core\bin\Debug\VsWebSite.Interop.dll
+E:\Development\Product\PayRoll\PayRoll\PayRoll.Core\bin\Debug\EnvDTE80.dll
+E:\Development\Product\PayRoll\PayRoll\PayRoll.Core\bin\Debug\FlashControlV71.dll
+E:\Development\Product\PayRoll\PayRoll\PayRoll.Core\bin\Debug\Microsoft.Web.Infrastructure.dll
+E:\Development\Product\PayRoll\PayRoll\PayRoll.Core\bin\Debug\stdole.dll
+E:\Development\Product\PayRoll\PayRoll\PayRoll.Core\bin\Debug\ShockwaveFlashObjects.dll
+E:\Development\Product\PayRoll\PayRoll\PayRoll.Core\bin\Debug\System.Web.Mvc.xml
+E:\Development\Product\PayRoll\PayRoll\PayRoll.Core\bin\Debug\Microsoft.VisualStudio.TemplateWizardInterface.xml
+E:\Development\Product\PayRoll\PayRoll\PayRoll.Core\bin\Debug\Microsoft.Web.Infrastructure.xml
+E:\Development\Product\PayRoll\PayRoll\PayRoll.Core\obj\Debug\REXPOS.Core.dll
+E:\Development\Product\PayRoll\PayRoll\PayRoll.Core\obj\Debug\REXPOS.Core.pdb
+E:\Development\Product\PayRoll\PayRoll\PayRoll.Core\obj\Debug\PayRoll.Core.csprojResolveAssemblyReference.cache
